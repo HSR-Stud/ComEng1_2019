@@ -1,5 +1,5 @@
-ProgGru (neu: ProgC)
-=======
-Updated: January 2013
+#Computer Engineering
+Zusammenfassung ComEng1
 
-License: CC by-sa 3.0
+##License
+CC BY-SA 3.0
